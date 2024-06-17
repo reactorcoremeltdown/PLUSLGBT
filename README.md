@@ -29,7 +29,7 @@ The above copyright notice, this permission notice and the word "LGBT" shall be 
 
 **Q:** _Where can I find examples?_
 
-**A:** _[Here you go!](licenses/)_
+**A:** _[Here you go!](licenses/) Please feel free to contribute more examples, I might require some serious legal advisory._
 
 **Q:** _The text of this memo looks suspiciously similar to that of some other website._
 
