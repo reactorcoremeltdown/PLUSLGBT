@@ -1,6 +1,6 @@
-> There is some sort of perverse pleasure in knowing that it's basically impossible to send a piece of hate mail through the Internet without its being touched by a gay program. That's kind of funny.
+> _There is some sort of perverse pleasure in knowing that it's basically impossible to send a piece of hate mail through the Internet without its being touched by a gay program. That's kind of funny._
 >
-> — Eric Paul Allman, the author of `sendmail`
+> _— Eric Paul Allman, the author of `sendmail`_
 
 # +LGBT License
 
