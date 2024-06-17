@@ -1,7 +1,8 @@
-# +LGBT License
-
 > There is some sort of perverse pleasure in knowing that it's basically impossible to send a piece of hate mail through the Internet without its being touched by a gay program. That's kind of funny.
+>
 > — Eric Paul Allman, the author of `sendmail`
+
+# +LGBT License
 
 The **+LGBT License** is a license modifier that requires the inclusion of the word **"LGBT"** in the LICENSE file.
 
@@ -32,4 +33,4 @@ The above copyright notice, this permission notice and the word "LGBT" shall be 
 
 ---
 
-Made with 🏳️‍🌈 in [Neovim](https://neovim.org)
+Made with 🏳️‍🌈 in [Neovim](https://github.com/neovim/neovim)
