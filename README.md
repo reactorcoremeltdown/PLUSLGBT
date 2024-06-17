@@ -31,6 +31,10 @@ The above copyright notice, this permission notice and the word "LGBT" shall be 
 
 **A:** _[Here you go!](licenses/)_
 
+**Q:** _The text of this memo looks suspiciously similar to that of some other website._
+
+**A:** _You're right, I took inspiration from there. However, I'll leave the [reclaiming](https://en.wikipedia.org/wiki/Reappropriation#:~:text=A%20reclaimed%20or%20reappropriated%20word,the%20general%20populace%20as%20well.) of the offensive word to those wanting to do so._
+
 ---
 
 Made with 🏳️‍🌈 in [Neovim](https://github.com/neovim/neovim)
